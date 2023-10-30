@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1698638177372,
-  "index": "https://ghtsolutions.github.io/chikiet88/index.html",
+  "timestamp": 1698638285627,
+  "index": "https://github.com/chikiet88/resume/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ghtsolutions.github.io/chikiet88/favicon.ico",
-        "https://ghtsolutions.github.io/chikiet88/index.html",
-        "https://ghtsolutions.github.io/chikiet88/main.7e254237676769ae.js",
-        "https://ghtsolutions.github.io/chikiet88/manifest.webmanifest",
-        "https://ghtsolutions.github.io/chikiet88/polyfills.f42e8324c5c7cbb0.js",
-        "https://ghtsolutions.github.io/chikiet88/runtime.89bfad0fe920d2c9.js",
-        "https://ghtsolutions.github.io/chikiet88/styles.ed30d48bc9846698.css"
+        "https://github.com/chikiet88/resume/favicon.ico",
+        "https://github.com/chikiet88/resume/index.html",
+        "https://github.com/chikiet88/resume/main.7e254237676769ae.js",
+        "https://github.com/chikiet88/resume/manifest.webmanifest",
+        "https://github.com/chikiet88/resume/polyfills.f42e8324c5c7cbb0.js",
+        "https://github.com/chikiet88/resume/runtime.89bfad0fe920d2c9.js",
+        "https://github.com/chikiet88/resume/styles.ed30d48bc9846698.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-128x128.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-144x144.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-152x152.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-192x192.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-384x384.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-512x512.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-72x72.png",
-        "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-96x96.png"
+        "https://github.com/chikiet88/resume/assets/icons/icon-128x128.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-144x144.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-152x152.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-192x192.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-384x384.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-512x512.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-72x72.png",
+        "https://github.com/chikiet88/resume/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "https://ghtsolutions.github.io/chikiet88/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "https://ghtsolutions.github.io/chikiet88/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ghtsolutions.github.io/chikiet88/index.html": "b0e9f136fc364d6595e878bbecd7af0cc2023a6f",
-    "https://ghtsolutions.github.io/chikiet88/main.7e254237676769ae.js": "42cfdbbed2e0ead0f3808bd9ca346741eb770055",
-    "https://ghtsolutions.github.io/chikiet88/manifest.webmanifest": "0525a045ed472918dea972e744b31758ac30393b",
-    "https://ghtsolutions.github.io/chikiet88/polyfills.f42e8324c5c7cbb0.js": "b7e2e9988e44802b1455777a2333ba5bd5280c91",
-    "https://ghtsolutions.github.io/chikiet88/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",
-    "https://ghtsolutions.github.io/chikiet88/styles.ed30d48bc9846698.css": "04324e3fd4163aeb8b6fe9e8523d3ba5fceb361a"
+    "https://github.com/chikiet88/resume/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://github.com/chikiet88/resume/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://github.com/chikiet88/resume/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://github.com/chikiet88/resume/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://github.com/chikiet88/resume/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://github.com/chikiet88/resume/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://github.com/chikiet88/resume/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://github.com/chikiet88/resume/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://github.com/chikiet88/resume/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://github.com/chikiet88/resume/index.html": "f2dcf035b13e69ec81d5612540cf998dc9c9471f",
+    "https://github.com/chikiet88/resume/main.7e254237676769ae.js": "42cfdbbed2e0ead0f3808bd9ca346741eb770055",
+    "https://github.com/chikiet88/resume/manifest.webmanifest": "0525a045ed472918dea972e744b31758ac30393b",
+    "https://github.com/chikiet88/resume/polyfills.f42e8324c5c7cbb0.js": "b7e2e9988e44802b1455777a2333ba5bd5280c91",
+    "https://github.com/chikiet88/resume/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",
+    "https://github.com/chikiet88/resume/styles.ed30d48bc9846698.css": "04324e3fd4163aeb8b6fe9e8523d3ba5fceb361a"
   },
   "navigationUrls": [
     {
