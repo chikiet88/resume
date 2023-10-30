@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1698639488422,
-  "index": "https://github.com/chikiet88/resume/index.html",
+  "timestamp": 1698639930768,
+  "index": "/resume/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/chikiet88/resume/favicon.ico",
-        "https://github.com/chikiet88/resume/index.html",
-        "https://github.com/chikiet88/resume/main.7e254237676769ae.js",
-        "https://github.com/chikiet88/resume/manifest.webmanifest",
-        "https://github.com/chikiet88/resume/polyfills.f42e8324c5c7cbb0.js",
-        "https://github.com/chikiet88/resume/runtime.89bfad0fe920d2c9.js",
-        "https://github.com/chikiet88/resume/styles.ed30d48bc9846698.css"
+        "/resume/favicon.ico",
+        "/resume/index.html",
+        "/resume/main.7e254237676769ae.js",
+        "/resume/manifest.webmanifest",
+        "/resume/polyfills.f42e8324c5c7cbb0.js",
+        "/resume/runtime.89bfad0fe920d2c9.js",
+        "/resume/styles.ed30d48bc9846698.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/chikiet88/resume/assets/icons/icon-128x128.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-144x144.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-152x152.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-192x192.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-384x384.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-512x512.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-72x72.png",
-        "https://github.com/chikiet88/resume/assets/icons/icon-96x96.png"
+        "/resume/assets/icons/icon-128x128.png",
+        "/resume/assets/icons/icon-144x144.png",
+        "/resume/assets/icons/icon-152x152.png",
+        "/resume/assets/icons/icon-192x192.png",
+        "/resume/assets/icons/icon-384x384.png",
+        "/resume/assets/icons/icon-512x512.png",
+        "/resume/assets/icons/icon-72x72.png",
+        "/resume/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/chikiet88/resume/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "https://github.com/chikiet88/resume/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "https://github.com/chikiet88/resume/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "https://github.com/chikiet88/resume/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "https://github.com/chikiet88/resume/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://github.com/chikiet88/resume/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://github.com/chikiet88/resume/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "https://github.com/chikiet88/resume/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "https://github.com/chikiet88/resume/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/chikiet88/resume/index.html": "f2dcf035b13e69ec81d5612540cf998dc9c9471f",
-    "https://github.com/chikiet88/resume/main.7e254237676769ae.js": "42cfdbbed2e0ead0f3808bd9ca346741eb770055",
-    "https://github.com/chikiet88/resume/manifest.webmanifest": "0525a045ed472918dea972e744b31758ac30393b",
-    "https://github.com/chikiet88/resume/polyfills.f42e8324c5c7cbb0.js": "b7e2e9988e44802b1455777a2333ba5bd5280c91",
-    "https://github.com/chikiet88/resume/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",
-    "https://github.com/chikiet88/resume/styles.ed30d48bc9846698.css": "04324e3fd4163aeb8b6fe9e8523d3ba5fceb361a"
+    "/resume/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/resume/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/resume/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/resume/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/resume/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/resume/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/resume/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/resume/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/resume/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/resume/index.html": "06ecace7f5bebe93022ef86247c6ae65611b537b",
+    "/resume/main.7e254237676769ae.js": "42cfdbbed2e0ead0f3808bd9ca346741eb770055",
+    "/resume/manifest.webmanifest": "0525a045ed472918dea972e744b31758ac30393b",
+    "/resume/polyfills.f42e8324c5c7cbb0.js": "b7e2e9988e44802b1455777a2333ba5bd5280c91",
+    "/resume/runtime.89bfad0fe920d2c9.js": "cedf50c3e04737c71d8b05b4d80ec9ba64003b4d",
+    "/resume/styles.ed30d48bc9846698.css": "04324e3fd4163aeb8b6fe9e8523d3ba5fceb361a"
   },
   "navigationUrls": [
     {
